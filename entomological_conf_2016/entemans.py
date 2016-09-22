@@ -165,7 +165,7 @@ for i, p in enumerate(ps):
             last_punc_index = title.rfind('.')
             if last_punc_index == -1:
                 last_punc_index = title.rfind('?')
-            title = title[:last_punc_index]
+            title = title[:last_punc_index+1]
 
         out = [category, email, title, name, fname, text]
         out = [filter(lambda x: x in printable, word) for word in out]
