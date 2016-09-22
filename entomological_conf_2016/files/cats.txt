@@ -1,0 +1,496 @@
+session
+Contributed Papers: Apidology Sericulture and Social Insects: Management
+Contributed Papers: Biodiversity Biogeography and Conservation of Arthropods: Novel Methods
+Contributed Papers: Bioinformatics and Comparative Genomics of Arthropods: Gene Expression
+Contributed Papers: Ecology and Population Dynamics: Behavior
+Contributed Papers: Entomological Effects of Global Warming in Agriculture and Medical Entomology
+Contributed Papers: Entomology Around the World
+Contributed Papers: Frontiers in Entomology: Uses and Symbiosis
+Contributed Papers: Functional Genomics and Transgenesis
+Contributed Papers: Genetics and Evolutionary Entomology: Mating and Competition
+Contributed Papers: Insect Chemical Ecology
+Contributed Papers: Insect Immunology: Molecular
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture
+Contributed Papers: Invasive and Exotic Entomology: Geography and Biology
+Contributed Papers: Morphology Systematics and Phylogeny: Myriapoda and Insecta
+Contributed Papers: RNAi and Gene Expression Control in Insects: Interactions
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: Biological Pest Management
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: Behavioral Pest Management
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: Insecticides
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: IPM Programs
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: Agronomic Crops
+Contributed Papers: Insect-Plant Interactions in a Changing Climate: Host Plant Interactions
+Contributed Papers: Insect-Plant Interactions in a Changing Climate: Abiotic Factors Pollinators and Pathogens
+Contributed Papers: Invasive and Exotic Entomology: Control and Tools
+Contributed Papers: Bioinformatics and Comparative Genomics of Arthropods: Genomes and Databases
+Contributed Papers: Frontiers in Entomology: Tools and Methods
+Contributed Papers: Invasive and Exotic Entomology: Diagnostics Methods and Responses
+Contributed Papers: Morphology Systematics and Phylogeny: Diptera
+Contributed Papers: Morphology Systematics and Phylogeny: Lepidoptera
+Contributed Papers: Morphology Systematics and Phylogeny: Bees Ants and Wasps
+Contributed Papers: Morphology Systematics and Phylogeny: Tenebrionids Clerids Staphylinids and Scarabs
+Contributed Papers: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops: Pollinators
+Contributed Papers: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops
+Contributed Papers: Morphology Systematics and Phylogeny: Hemiptera
+Contributed Papers: Morphology Systematics and Phylogeny: Parasitoid Wasps and Trichoptera
+Contributed Papers: Morphology Systematics and Phylogeny: Behavior Chrysomelids Curculionids and Scarabs
+Contributed Papers: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops
+Contributed Papers: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops
+Contributed Papers: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops
+Contributed Papers: Biodiversity Biogeography and Conservation of Arthropods: Coleoptera
+Contributed Papers: Biodiversity Biogeography and Conservation of Arthropods: Lepidoptera
+Contributed Papers: Biodiversity Biogeography and Conservation of Arthropods: Hymenoptera
+Contributed Papers: Biodiversity Biogeography and Conservation of Arthropods: Pollination Agriculture and Disease Control
+Contributed Papers: Biodiversity Biogeography and Conservation of Arthropods: Population and Community Diversity
+Contributed Papers: Genetics and Evolutionary Entomology: Populations and Spatial Diversity
+Contributed Papers: Genetics and Evolutionary Entomology: Trait Expression
+Contributed Papers: Urban Entomology in a Changing Environment: Termites and Ants
+Contributed Papers: Urban Entomology in a Changing Environment: Bed Bugs Cockroaches and Flies
+Contributed Papers: Urban Entomology in a Changing Environment: Unique Challenges
+Contributed Papers: Biological Control and Insect Pathology: Utilizing Parasitoid Wasps I
+Contributed Papers: Biological Control and Insect Pathology: Utilizing Parasitoid Wasps II
+Contributed Papers: Biological Control and Insect Pathology: Nematodes Fungi and Bt
+Contributed Papers: Biological Control and Insect Pathology: Plant and Other Extracts as Biocides
+Contributed Papers: Biological Control and Insect Pathology: Unique Studies I
+Contributed Papers: Biological Control and Insect Pathology: Unique Studies II
+Contributed Papers: Biological Control and Insect Pathology: Unique Studies III
+Contributed Papers: Stored Products Entomology: Novel Strategies I
+Contributed Papers: Stored Products Entomology: Novel Strategies II
+Contributed Papers: Stored Products Entomology: Fumigants and Hypoxia
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: Tree Fruits and Nuts
+Contributed Papers: Integrated Pest Management and Sustainable Agriculture: Fruits and Vegetables
+Contributed Papers: Agricultural and Forest Entomology: Forest Insects
+Contributed Papers: Agricultural and Forest Entomology: Forest Insects Pollinators Systematics and Remote Sensing
+Contributed Papers: Agricultural and Forest Entomology: Fruits Vegetables Cereals and Grains
+Contributed Papers: Agricultural and Forest Entomology: Pesticide Efficacy and Resistance Management
+Contributed Papers: Agricultural and Forest Entomology: Integrated Pest Management Host-Plant Interactions and Transgenic Crops
+Contributed Papers: Agricultural and Forest Entomology: Behavioral and Chemical Ecology
+Contributed Papers: Ecology and Population Dynamics: Community
+Contributed Papers: Ecology and Population Dynamics: Interactions
+Contributed Papers: Ecology and Population Dynamics: Pest Management
+Contributed Papers: Ecology and Population Dynamics: Sampling
+Contributed Papers: Acarology: Mites
+Contributed Papers: Medical and Veterinary Entomology: Ticks I
+Contributed Papers: Medical and Veterinary Entomology: Anopheles Vectors of Malaria
+Contributed Papers: Medical and Veterinary Entomology: Ticks II
+Contributed Papers: Arthropod Vectors of Animal and Plant Diseases: Plant-Insect-Pathogen Interactions
+Contributed Papers: Arthropod Vectors of Animal and Plant Disease: Insect Endosymbionts and Microbiota
+Contributed Papers: Medical and Veterinary Entomology: Repellents Toxicants and Resistance
+Contributed Papers: Medical and Veterinary Entomology: Mosquito Behavior and Trapping Technologies
+Contributed Papers: Medical and Veterinary Entomology: Mosquito Ecology and Management
+Contributed Papers: Medical and Veterinary Entomology: Mosquito 'Omics and Biological Control
+Contributed Papers: Medical and Veterinary Entomology: Flies of Veterinary Importance
+Contributed Papers: Medical and Veterinary Entomology: Biting Flies
+Contributed Papers: Medical and Veterinary Entomology: Forensic Entomology
+Contributed Papers: Ecology and Population Dynamics: Community Services
+Contributed Papers: Ecology and Population Dynamics: Power of Prediction
+Contributed Papers: Insect Chemical Ecology: Attractants
+Contributed Papers: Insect Chemical Ecology: Physiology
+Contributed Papers: Insect Chemical Ecology: Plant Protection
+Contributed Papers: Apidology Sericulture and Social Insects: Physiology Genetics and Genomics
+Contributed Papers: Insect Immunology: Environment
+Contributed Papers: Apidology Sericulture and Social Insects: Behavior
+Contributed Papers: Apidology Sericulture and Social Insects: Environmental Responses
+Contributed Papers: Physiology and Biochemistry: Neurophysiology and Hormone Regulation
+Contributed Papers: Physiology and Biochemistry: Toxicology Metabolism and Nutrition
+Contributed Papers: Apidology Sericulture and Social Insects: Ecology
+Contributed Papers: Physiology and Biochemistry: Molecular Genetics and Genomics
+Contributed Papers: Physiology and Biochemistry: Fundamental
+Contributed Papers: RNAi and Gene Expression Control in Insects: Pest Management
+Poster Session 1: Agriculture and Forest Entomology Part 1
+Poster Session 1: Biodiversity Biogeography and Conservation of Arthropods Part 1
+Poster Session 1: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops Part 1
+Poster Session 1: Functional Genomics and Transgenesis
+Poster Session 1: Medical and Veterinary Entomology Part 1
+Poster Session 1: Stored Products Entomology
+Poster Session 2: Acarology
+Poster Session 2: Bioinformatics and Comparative Genomics of Arthropods
+Poster Session 2: Biological Control and Insect Pathology
+Poster Session 2: Ecology and Population Dynamics
+Poster Session 2: Entomological Effects of Global Warming in Agriculture and Medical Entomology
+Poster Session 2: Insect-Plant Interactions in a Changing Climate
+Poster Session 3: Entomophagy and Entomology in Popular Culture
+Poster Session 3: Genetics and Evolutionary Entomology
+Poster Session 3: Insect Chemical Ecology
+Poster Session 3: Insect Neurobiology
+Poster Session 3: Integrated Pest Management and Sustainable Agriculture
+Poster Session 3: Invasive and Exotic Entomology
+Poster Session 3: Physiology and Biochemistry
+Poster Session 3: RNAi and Gene Expression Control in Insects
+Poster Session 4: Agriculture and Forest Entomology Part 2
+Poster Session 4: Apidology Sericulture and Social Insects
+Poster Session 4: Arthropod Vectors of Animal and Plant Disease
+Poster Session 4: Biodiversity Biogeography and Conservation of Arthropods Part 2
+Poster Session 4: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops Part 2
+Poster Session 4: Insect Immunology
+Poster Session 4: Insects in Food Safety and Homeland Security
+Poster Session 4: Medical and Veterinary Entomology Part 2
+Poster Session 4: Morphology Systematics and Phylogeny
+Undergraduate Student Oral Competition: Frontiers in Entomology
+Graduate Student Oral Competition: Urban Entomology in a Changing Environment: Biting Pests
+Graduate Student Oral Competition: Insect Immunology
+Graduate Student Oral Competition: Apidology Sericulture and Social Insects: Termites
+Graduate Student Oral Competition: Medical and Veterinary Entomology: Ticks
+Graduate Student Oral Competition: Biological Control and Insect Pathology: Entomopathogens and Weed Biocontrol
+Graduate Student Oral Competition: Biological Control and Insect Pathology: Predators
+Graduate Student Oral Competition: Ecology and Population Dynamics: Behavior
+Graduate Student Oral Competition: Invasive and Exotic Entomology: Drosophilids
+Graduate Student Oral Competition: Apidology Sericulture and Social Insects: Honey Bees I
+Graduate Student Oral Competition: Morphology Systematics and Phylogeny: Flies Lepidopterans and Others
+Graduate Student Oral Competition: Agricultural and Forest Entomology: Hemipteran Pests
+Graduate Student Oral Competition: Agricultural and Forest Entomology: Forest Pests
+Graduate Student Oral Competition: Insect-Plant Interactions in a Changing Climate
+Graduate Student Oral Competition: Integrated Pest Management and Sustainable Agriculture: Landscape Systems
+Graduate Student Oral Competition: Biodiversity Biogeography and Conservation of Arthropods: Diversity
+Graduate Student Oral Competition: Medical and Veterinary Entomology: Livestock Pests and Decomposers
+Undergraduate Student Oral Competition: Ecology and Population Dynamics
+Graduate Student Oral Competition: Apidology Sericulture and Social Insects: Honey Bees II
+Graduate Student Oral Competition: Apidology Sericulture and Social Insects: Ants
+Graduate Student Oral Competition: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops: Bt Toxins
+Graduate Student Oral Competition: RNAi and Gene Expression Control in Insects
+Graduate Student Oral Competition: Genetics and Evolutionary Entomology: Behavior
+Graduate Student Oral Competition: Physiology and Biochemistry: Physiology
+Graduate Student Oral Competition: Insect Chemical Ecology
+Graduate Student Oral Competition: Medical and Veterinary Entomology: Biting Diptera
+Graduate Student Oral Competition: Integrated Pest Management and Sustainable Agriculture: Agricultural Systems
+Undergraduate Student Oral Competition: Entomology Around the World
+Graduate Student Oral Competition: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops: Insecticides
+Graduate Student Oral Competition: Morphology Systematics and Phylogeny: Beetles Bugs and Others
+Graduate Student Oral Competition: Biological Control and Insect Pathology: Biological Control
+Graduate Student Oral Competition: Ecology and Population Dynamics: Pollinators
+Graduate Student Oral Competition: Ecology and Population Dynamics: Ecology and Evolution
+Graduate Student Oral Competition: Invasive and Exotic Entomology: Invasives
+Graduate Student Oral Competition: Genetics and Evolutionary Entomology: Population Genetics
+Graduate Student Oral Competition: Physiology and Biochemistry: Abiotic/Biotic Effects
+Graduate Student Oral Competition: Apidology Sericulture and Social Insects: Pollinators
+Graduate Student Oral Competition: Urban Entomology in a Changing Environment: Home and Warehouse Pests
+Graduate Student Oral Competition: Agricultural and Forest Entomology: Pollinators
+Graduate Student Oral Competition: Agricultural and Forest Entomology: Vectors and Others
+Graduate Student Oral Competition: Urban Entomology in a Changing Environment: Ants
+Graduate Student Oral Competition: Biodiversity Biogeography and Conservation of Arthropods: Butterflies and Others
+Graduate Student Oral Competition: Functional Genomics and Transgenesis
+Graduate Student Oral Competition: Integrated Pest Management and Sustainable Agriculture: Thrips and Others
+Graduate Student Oral Competition: Morphology Systematics and Phylogeny: Hymenoptera
+Undergraduate Student Poster Competition: Ecology and Population Dynamics
+Undergraduate Student Poster Competition: Frontiers in Entomology
+Graduate Student Poster Competition: Agricultural and Forest Entomology
+Graduate Student Poster Competition: Apidology Sericulture and Social Insects: Ants and Termites
+Graduate Student Poster Competition: Apidology Sericulture and Social Insects: Bees
+Graduate Student Poster Competition: Biological Control and Insect Pathology
+Graduate Student Poster Competition: Ecology and Population Dynamics
+Graduate Student Poster Competition: Ecology of Pesticides Resistance Toxicology and Genetically Modified Crops
+Graduate Student Poster Competition: Frontiers in Entomology
+Graduate Student Poster Competition: Genetics and Evolutionary Entomology
+Graduate Student Poster Competition: Insect Chemical Ecology
+Graduate Student Poster Competition: Invasive and Exotic Entomology
+Graduate Student Poster Competition: RNAi and Gene Expression Control in Insects
+Undergraduate Student Poster Competition: Medical and Veterinary Entomology
+Undergraduate Student Poster Competition: Morphology Systematics and Phylogeny
+Graduate Student Poster Competition: Acarology and Stored Products
+Graduate Student Poster Competition: Arthropod Vectors of Animal and Plant Disease
+Graduate Student Poster Competition: Insect Immunology
+Graduate Student Poster Competition: Integrated Pest Management and Sustainable Agriculture: Management Tactics
+Graduate Student Poster Competition: Integrated Pest Management and Sustainable Agriculture: Pest Physiology
+Graduate Student Poster Competition: Medical and Veterinary Entomology
+Graduate Student Poster Competition: Morphology Systematics and Phylogeny: Flies Hemiptera and Lepidoptera
+Graduate Student Poster Competition: Morphology Systematics and Phylogeny: Springtails Beetles and Hymenoptera
+Graduate Student Poster Competition: Physiology and Biochemistry: Moths and Mosquitoes
+Graduate Student Poster Competition: Physiology and Biochemistry: Physiology
+100 Symposium: Engineering Beneficial Traits into Insects Using Novel Gene Drive Systems
+101 Symposium: Vector Development and Reproduction
+102 Symposium: Zika Virus
+103 Symposium: Neuronal Correlates of Odorant Valence in Insects
+104 Symposium: Stick Insect Research in the Era of Genomics: Exploring the Evolution of a Mesodiverse Insect Order
+105 Symposium: Photoperiodic Induction of Diapause and Seasonal Morphs
+142 Symposium: Pest Shifting, Invasive Species, and Resistance Development in Key Growing Areas of the World and the Need for New Technology to Manage Insect Pests
+143 Symposium: Profiles of Forest Pests Ready to Cross Borders and Invade New Areas
+144 Symposium: Insights into the Biology of Wild and Managed Native Bees
+145 Symposium: In Honor of Past ESA President Donald L. McLean: Electropenetrography (EPG) Without Borders: Plant Pathogen Vector Research Inspiring Novel Animal Disease Studies
+146 Symposium: Biodiversity, Distribution, Behavior, and Activity of Forensically Important Entomofauna and Microbiota in Different Ecoregions
+147 Symposium: Building the Biodiversity Knowledge Graph for Insects - Components, Progress, and Challenges
+148 Symposium: Data without Borders: Collecting, Digitizing, Using, and Re-using Biological Specimen Data
+149 Symposium: From Diet Breadth to Diversification: Understanding Host Shifts in Phytophagous Insects
+150 Symposium: Biological Control of the Invasive Brown Marmorated Stink Bug, Halyomorpha halys, by Exotic and Native Parasitoids and Predators: A Global Perspective
+151 Symposium: Status and Prospects for Biological Control in the 21st Century (IOBC)
+152 Symposium: New Tools and Strategies for Integrated Pest Management (IPM) on Transgenic (Bt) and Non-Transgenic (Conventional) Cotton Crops
+153 Symposium: Population Consequences of Pest Management Tactics on Non-Target Species
+154 Symposium: Entomology Around the World: Past, Present, and Future Challenges
+155 Symposium: Global Status, Acceptance, and Challenges of GM Crops
+156 Symposium: Where are the Six Legs of Advanced Entomology Publishing Taking Us?
+157 Symposium: An Emerging Food Supply: Edible Insects
+158 Symposium: In the Light of Morphometrics: Frontiers in Ecology and Evolution of Insect Morphology
+159 Symposium: What Constitutes Responsible Field Release of Transgenic Insects?
+160 Symposium: Workshop on Gene Editing Technologies
+161 Symposium: Novel Contributions of Chemical Ecology to Global IPM
+162 Symposium: Sex and Drugs and Bee Control: The Chemical Ecology of Pollination
+163 Symposium: Social Insect Pathobiology
+164 Symposium: The Biochemical Signaling Interface Between Invaders and Their Insect Hosts
+165 Symposium: Deciphering Complex Signaling Mechanisms in Insect-Plant Interactions
+166 Symposium: Integrated Pest Management Components and Packages for Tropical Crops
+167 Symposium: True Bugs (Heteroptera) from the Neotropics: Advances on Basic and Applied Research
+168 Symposium: Wireworm and Click Beetle Management: IPM Toolbox for the 21st Century
+169 Symposium: Scarabs without Borders: Lessons from a Century of Invasions
+170 Symposium: Innovative Strategies of Mosquito Control
+171 Symposium: Vector-Borne Diseases of Livestock
+172 Symposium: Evolution and Biology of Chalcidoidea: Integrating Genomics, Fossils, Microbiomes, and Natural History
+173 Symposium: Recent Advances in Heteropteran (Hemiptera) Systematics and Evolution
+174 Symposium: Systematics, Biogeography, and Ecology of Cerambycidae and Buprestidae
+175 Symposium: Bt Mode of Action, Resistance Mechanisms, and Global Patterns
+176 Symposium: The Physiological Ecology of Insect Flight: From Millisecond Escape to Long-Distance Migration
+177 Symposium: Emerging Technologies for Successful Applications of dsRNA to Reduce Pests and Pathogens in Agriculture
+178 Symposium: The Khapra Beetle: A Potential Invasive Species
+179 Symposium: A Global Perspective on Insect Pests of Wood Products
+180 Symposium: How Human Activities Shape the Global Distribution of Insects
+2 Symposium: Small RNAs: A New Frontier in Insect Science
+235 Symposium: Avocados, Blueberries, and Olives: Pests of Small Fruit in Florida
+236 Symposium: Innovative Responses to the Global Homogenization of Plantation Pests
+237 Symposium: Spruce Budworm Genomics: From Basic Science to Outbreak Management
+238 Symposium: Biocontrol and Induced Plant Defences: A Tale of Three Trophic Levels
+239 Symposium: Parasitoid Assemblages in Agroecosystems: Environmental Drivers Affecting Biocontrol
+240 Symposium: Climate Change: Preventing the Spread of Invasive Species in Agriculture
+241 Symposium: Entomological Issues Beyond Borders: Challenges and Opportunities for Sustainable Solutions
+242 Symposium: Microbial Modulation of Insect Immunity
+243 Symposium: Reproductive Interference and its Applications
+244 Symposium: Unmanned Aerial Systems (Drones) for Precision Mosquito Control and Agricultural Use
+245 Symposium: Genomic and Genetic Strategies Toward Integrated Pest Management
+246 Symposium: Genetic Architecture of Species Differences
+247 Symposium: Cross-Continental Patterns of Chemical Communication Among Subcortical Insects
+248 Symposium: Worldwide Use of Kairomones to Enhance Management of Tortricids in Fruit Crops: New Opportunities and New Problems
+249 Symposium: Wound Healing and Damage Signals in Insects
+250 Symposium: Insect-Plant Interactions in a Changing Arctic
+251 Symposium: Insect-Plant Interactions in a Changing Climate
+252 Symposium: Biological Control under Climate Change (IOBC)
+253 Symposium: Bt Crops and Best Management Practices: Influence on the Technology Durability
+254 Symposium: Challenges and Opportunities for Management of Western Corn Rootworm
+255 Symposium: Global Spread and Management of the South American Tomato Leafminer, Tuta absoluta
+256 Symposium: Chagas Disease: A Neglected Disease of Public Health Importance
+257 Symposium: Mechanistic Insights into Mosquito-Parasite Interactions
+258 Symposium: Opportunities and Challenges for Biological Control of Disease Vectors (IOBC)
+259 Symposium: Repellents
+260 Symposium: Recent Advances in the Study of the Neuropterida
+261 Symposium: Duplications, Deletions, and Other Mutations: Deciphering the Molecular Basis of Insecticide Resistance
+262 Symposium: From Molecules to Management: New Tools for Understanding Locust Swarms across Species and Research Disciplines
+263 Symposium: Advances in Hermetic Storage for Smallholder Farms
+264 Symposium: Stored Product Entomology: Challenges that Transcend Borders
+265 Symposium: Advancements in Resistance and Aversion Management for Urban Pests
+298 Symposium: Bark and Ambrosia Beetles: Biology, Ecology, and Management
+299 Symposium: Status of Worldwide Honey Bee Health and Its Impacts on Agriculture
+300 Symposium: Insect-transmitted Phytoviruses and Agricultural Pandemics: Current Scenarios and Sustainable Management
+301 Symposium: Advances in the Behavioral Ecology of Entomopathogenic Nematodes
+302 Symposium: Rise or Demise? A Global Outlook on the Future of Classical Biological Weed Control
+303 Symposium: Arthropod Movement in Agro-Ecosystems: Linking Individual Behaviours and Population Patterns Across Spatio-Temporal Scales. Just What Does Emerge?
+304 Symposium: Arthropods and Decomposition
+305 Symposium: Entomological Research in China: Major Progresses and Perspectives
+306 Symposium: Industrialization of Insects as a Food Ingredient
+307 Symposium: Insects and the Global Human Experience
+308 Symposium: Biology and Evolution of Social Insect Symbionts
+309 Symposium: Emerging Technologies for Tomorrow's Collaborative Discoveries
+310 Symposium: Insect Effects on Ecosystem Services
+311 Symposium: Novel Insecticidal Agents and Next-Gen Approaches for Insect Control
+312 Symposium: Evolution of Biological Clocks
+313 Symposium: Interactions Between the Insect Immune System and Parasites
+314 Symposium: Parasitoids, Polydnaviruses, and Pathogens: Genomes to Immune Physiology
+315 Symposium: Plant Piercing-Sucking Insects and Vectors without Borders
+316 Symposium: Advances in Pest Management
+317 Symposium: Insect-Resistant Genetically Engineered Crops: Current Status, Concerns, and Future Prospects
+318 Symposium: Research Frontiers into the Use of Preventive Medicine in Arthropod Pest Management
+319 Symposium: Forest Insect Invasions in a Changing Climate: Mechanisms and Risks
+320 Symposium: Hitchhikers in Florida: History and Control
+321 Symposium: No More Invasive Insect Species: Is Quarantine the Answer?
+322 Symposium: The Role of National, Regional, and International Plant Protection Organizations to Prevent the Introduction and Spread of Plant Pests
+323 Symposium: Forensic Entomology without Borders: Uniting the Worldwide Forensic Entomology Community
+324 Symposium: Reducing Transmission Rates of Infectious Diseases by Targeting Mosquito Olfaction
+325 Symposium: Ticks Are Different: The Impact of Tick Biology on Their Role As Vectors
+326 Symposium: Advances in Ant Systematics: Global Sampling, New Phylogenetic Methods, and Major Taxonomic Changes
+327 Symposium: Phylogeny and Evolution of Weevils (Coleoptera: Curculionoidea): A Symposium in Honor of Guillermo "Willy" Kuschel
+328 Symposium: Progress in Insect Phylogenomics: The Scale and Complexity of Next-Gen Datasets and Analyses
+329 Symposium: Systematics and Diversity of Aquatic Beetles: An Emerging Model System in Evolutionary Biology
+330 Symposium: The Evolution of Lepidoptera: Bringing it All Together
+331 Symposium: Insect Biocomposites: Cuticles and Peritrophic Matrices
+332 Symposium: Ion Channels as Targets of Synthetic and Natural Neurotoxins
+333 Symposium: Mechanisms and Consequences of Phase Change in the Desert Locust, Schistocerca gregaria
+334 Symposium: Physiological Systems for Arthropod Pest Management in the 21st Century
+335 Symposium: The Limits of Respiratory Function: External and Internal Constraints on Insect Gas Exchange
+336 Symposium: Advances in the Molecular Biology and Microbial Ecology of Important Urban Pests
+374 Symposium: Agronomic and Economic Benefits of Seed Treatments: The IPM Perspective
+375 Symposium: Public-Private Partnerships for Development of Next-Generation Pest Management Methods
+376 Symposium: IPM Strategies for the Management and Sustainability of Honey Bees (Apis mellifera) Across the Globe
+377 Symposium: Insect Vectors as Drivers of Emerging Plant Diseases
+378 Symposium: Insects, Ecosystem Functioning, and Services: New Questions and Experimental Perspectives
+379 Symposium: Using Insect Diversity to Plan and Manage Conservation in Transformed Landscapes
+380 Symposium: Biological Control Perspective in South and Southeast Asia
+381 Symposium: Critical Factors Modifying the Effects of Climate Change on the Distributions of Vector-Borne Diseases
+382 Symposium: Department of Defense Entomology and Global Public Health: Working Together to Combat Vector Borne Disease and Protect the Environment
+383 Symposium: Modern Studies of Gerromorphan Insects: Behavior, Phylogeny, Physiology, and Ecology
+384 Symposium: Weaving Your Web: Science Communication and Social Media for Insect Scientists
+385 Symposium: Insect Genetic Technologies: State of the Art and Promise for the Future
+386 Symposium: Jumping Genes: Horizontal Gene Transfer in Insects and Beyond
+387 Symposium: Endocrine and Neural Network in Control of Physiology
+388 Symposium: Securing Borders While Promoting Trade: Regional Approaches to Control Agricultural Pests in the Greater Caribbean Area
+389 Symposium: Advances in Insect Control and in Resistance Management
+390 Symposium: What Happens When Pest Occurrence Data is Shared: End of the World or New Horizons?
+391 Symposium: Sirex noctilio: A Global Forest Insect
+392 Symposium: Medical and Veterinary Entomology in Florida
+393 Symposium: Microbiome and Vector Immunity
+394 Symposium: The Role of Microbiota in Vectors
+395 Symposium: The Use of Plant Resources Against Biting Flies
+396 Symposium: Vertebrate Host Factors: Effect on Vector Biology
+397 Symposium: Molecular Bases of Behavior in Kissing Bug Vectors of Human Disease
+398 Symposium: 9th International Symposium on the Chrysomelidae
+399 Symposium: Insect Molecular Physiology and Ecology: The Post-Genomic Era
+400 Symposium: The Insect Circulatory System: Vital but Widely Neglected!
+401 Symposium: Psocids as Global Pests of Stored Products
+402 Symposium: Ecology and Adaptation for Survival of Termites
+403 Symposium: Novel Techniques in Urban IPM
+442 Symposium: Advances in Acarology
+443 Symposium: Advances in Tick and Mite Biology, Animal Disease Transmission, and Control
+444 Symposium: Global Perspectives on Soft Ticks (Argasidae) as Pests and Disease Vectors
+445 Symposium: Excavation and Construction by Social Insects: Integrating Positive and Negative Space
+446 Symposium: Beyond Pests: Biodiversity in the Urban Environment
+447 Symposium: Phylogeny and Evolution of Insect Communication Systems
+448 Symposium: Towards Improved Reference Assemblies for Insect Genomes
+449 Symposium: Trichogramma in Augmentative Biological Control: A Worldwide View of the Past, Present, and Future
+450 Symposium: Virus-Insect Interactions
+451 Symposium: Population Biology of Winter Moth, Operophtera brumata L., and Related Geometrids on Two Continents
+452 Symposium: Stable Isotope 'Fingerprinting' in Insect Ecology
+453 Symposium: Case Studies in Entomology: Four Examples of Global Excellence
+454 Symposium: Entomology without Borders: Senior Member Symposium with Retired and Emeriti Professionals on Sharing their Involvement after Retirement
+455 Symposium: Sin Fronteras: Forging Collaborations through the Americas: 4th Latin American/Hispanic Symposium
+456 Symposium: Economics of IPM in the 21st Century: Multiple Perspectives from Around the World
+457 Symposium: Talking to Swarms Without Borders: Methods for Engaging the Public in the Buzz about Entomology
+458 Symposium: Epigenetics and Insect Adaptation to Their Environment
+459 Symposium: Bioinspiration Crossing Disciplinary Borders
+460 Symposium: Olfaction and Olfaction-Mediated Behaviors
+461 Symposium: Endocrine and Neural Networks that Control and Regulate Behavioral Programs
+462 Symposium: Integrated Pest Management Around the World
+463 Symposium: Drosophila suzukii, an Invasive Pest of Small and Stone Fruits
+464 Symposium: Arboviruses and One Health
+465 Symposium: New Insights into the Metabolism of Mosquitoes that are Vectors of Human Diseases
+466 Symposium: Peridomestic Animals and Chagas Vector Control
+467 Symposium: Stable Flies in Agroecosystems: An International Problem
+468 Symposium: Vector Biology and Ecology Perspective: Roadblocks and Solutions to Malaria Elimination
+469 Symposium: Molecular Strategies/Mechanisms of Insect Reproduction
+470 Symposium: Global Challenges in Applied Urban Entomology
+500 Symposium: Dynamic Interactions at the Tick-Host-Pathogen Interface
+501 Symposium: Invasive Bark and Ambrosia Beetles: A Pest Problem of Worldwide Significance
+502 Symposium: Millions of Hectares and Counting: Knowledge Gained during Recent Bark Beetle Outbreaks in Western North America
+503 Symposium: Breeding Honey Bees, Apis mellifera, for Resistance to Varroa destructor
+504 Symposium: Harnessing the Power of Genomics Tools: Functional Genomics of Pollinator Health
+505 Symposium: Invasive Ants: Biology and Control
+506 Symposium: Ecology, Surveillance, and Control of Biting Midges
+507 Symposium: Biogeographical Lessons Learned from the West Indies
+508 Symposium: SOLA Scarab Workers
+509 Symposium: Regional Status of Microbial Control Programs
+510 Symposium: Climate Change Impacts and Insect Population Dynamics
+511 Symposium: Next-Generation Technologies for Insect Control
+512 Symposium: Effect of Global Climate Change on Vector-Borne Disease Transmission
+513 Symposium: Neotropical Insect Galls
+514 Symposium: Engaging the World of Arthropod Education in a Digital Age
+515 Symposium: Entomologists without Borders: The Need for Collaboration Between Medical Professionals and Entomologists for the Betterment of Global Public Health
+516 Symposium: Insect Photography Symposium: Bringing the Small to the World
+517 Symposium: International Graduate Student Showcase
+518 Symposium: Orthopteroids Without Borders
+519 Symposium: Sericigenous Insects and 3F's: Fibre, (Human) Food and Feed-Global Status, and Future Role in Resolving Global Challenges
+520 Symposium in Honor of the 2016 Recipients of Certificates of Distinction
+521 Symposium: Insect Sex Determination
+522 Symposium: Insect Gut Microbe Interactions
+523 Symposium: Trade-offs and Immunity: Physiology, Life-History, and Evolution
+524 Symposium: Ant-Plant Interactions in a Changing World
+525 Symposium: Combining Insect Life Table, Consumption Rate, and Predation Rate for IPM and Biological Control
+526 Symposium: From Genes to Grains: The Current Sugarcane Aphid Outbreak on Sorghum in the Southern U.S.
+527 Symposium: Impact of Native and Invasive Alien True Bug Species in Agro-Ecosystems: Range Expansion, Pest Status, and Control Tactics
+528 Symposium: Innovative Application Technologies for Pest Management
+529 Symposium: Approaches for Modeling Insect Pest Potential Distribution and Spread
+530 Symposium: International Perspectives Contribute Towards a Clearer Understanding of Drosophila suzukii
+531 Symposium: Arthropod Saliva: From Basic Science to Practical Applications
+532 Symposium: Mosquito Host Detection
+533 Symposium: Ecology and Systematics of Elateridae (Coleoptera)
+534 Symposium: Evolution of a Megadiverse Group: The Ichneumonoid Wasps (Hymenoptera: Braconidae, Ichneumonidae)
+535 Symposium: Synthesis in Sternorrhyncha Systematics
+536 Symposium: Wings and Powered Flight: Core Novelties in Insect Evolution
+537 Symposium: Cold Physiology in a Warming World
+538 Symposium: Mechanisms Affecting the Efficiency of RNA Interference in Insects
+539 Symposium: Invasive Disease Vectors in Urban Environments: Current Challenges and Future Solutions
+540 Symposium: Invasive Termite Species: Where Are They From, Where Are They Now, and Where Will They Be?
+575 Symposium: Forest Entomology without Borders: Balancing Market Forces with Government Intervention
+576 Symposium: The Brown Marmorated Stink Bug: An Invasive Insect of Global Importance
+577 Symposium: Evolution of Insect Sociality: From Theory to Genomes and Back Again
+578 Symposium: Insects and Ecosystem Services with Special Reference to Pollination Biology
+579 Symposium: Partners in Crime: Vector-Pathogen Interactome
+580 Symposium: Keeping Science in Citizen Science
+581 Symposium: Making Species Inventories Work for You: Diverse Uses Across Varied Fields
+582 Symposium: Advancement and Challenges in Biological Control of Invasive Forest Insects: A Global Perspective
+583 Symposium: Behavior and Ecology of Native, Naturalized, and Invasive Ladybird Beetles
+584 Symposium: Insects and Landscape Ecology: Defining an Entomological Perspective
+585 Symposium: Globally Important Pests and Globally Important Control Tools: Comparing and Contrasting IRM Successes and Challenges, IRAC US Symposium
+586 Symposium: Insect-Resistant GM Crops in Asia-Pacific: Current Status, Challenges, and Opportunities
+587 Symposium: Cassava and Bean IPM throughout the Developing World: Honoring the Contributions of Anthony Bellotti and César Cardona Mejía
+588 Symposium: Discovering Sustainable Insecticides: Resistance, Innovation, and Responsibility
+589 Symposium: Future Approaches for the Control of Insect Pests
+590 Symposium: Modulation of Insect Chemical Response at Different Time Scales: Ethology, Ecology, and Evolution
+591 Symposium: Outlaws of Immunology and Infection
+592 Symposium: Ecologically-Based Integrated Pest Management for Selected Food Security Crops in Central Asia
+593 Symposium: Exploiting Multi-Trophic Interactions in the Management of Invasive Agricultural Arthropod Pests
+594 Symposium: Global Improvements in Invasive Ant Management
+595 Symposium: Genetics and Genomics of Mosquitoes and Implications for Transmission of Pathogens
+596 Symposium: Hormones in Arthropod Vectors of Infectious Diseases
+597 Symposium: New Approaches to Biological and Integrated Control Changing Global Perspectives on Filth Fly Management
+598 Symposium: Rapid Evolutionary Radiations in Insects: Phylogenetic Causes and Consequences of Life in the Fast Lane
+599 Symposium: Physiological Responses to Environmental Change
+600 Symposium: Spreading the Word: Bed Bug Education and Training in Today's Society
+628 Symposium: Global Challenges in Rice Pest Management
+629 Symposium: Technological Innovations and Integrated Pest Management
+630 Symposium: Harnessing the Power of Genomics Tools: Monitoring Stressors in Pollinator Populations
+631 Symposium: Integrated Crop Pollination in Theory and Practice
+632 Symposium: Interactions Between Pollination Services and Agricultural Practices
+633 Symposium: Regulation of Honey Bee Polyethism: Clock, Neuroendocrine System, and Environmental Toxicants
+634 Symposium: Rhipicephalus sanguineus: Tick without Borders
+635 Symposium: Global Status of Native and Invasive Coccinellids
+636 Symposium: Resource Management and Biodiversity in Cockroach and Termite Lineages: Exploring the Common Ground in Their Nutrition, Biodiversity, and Systematics
+637 Symposium: Industry-Academia Collaborative Research and Development in Biological Control of Arthropod Pests: Results from Four Years of Marie-Curie Staff Exchange, and Perspectives
+638 Symposium: Ecology, Biodiversity, and Geography of Gall-Inducing Insects: Now and Beyond
+639 Symposium: Host Relations of Gall-Inducing Insects
+640 Symposium: Monitoring and Forecasting of Migratory Insect Movements
+641 Symposium: Biotechnologically-Based Insect Control Strategies
+642 Symposium: Key Challenges with Bt Crops in Latin America
+643 Symposium: Aquatic Entomology Around the World
+644 Symposium: Connecting with the World's Best Talent: Attracting and Retaining Diverse Entomologists
+645 Symposium: Tales from the Understory: Unraveling Secrets behind Tropical Butterfly Communication, Behavior, Wing Patterns, and Diversity
+646 Symposium: Crop Domestication Effects on Plant-Insect Interactions: Patterns, Mechanisms, and Future Directions
+647 Symposium: Entomology in the Digital Age
+648 Symposium: Next-Generation Ecology, Morphology, and Genomics: What Can We Learn about the Evolution of Odonata?
+649 Symposium: Wood Borer-Fungus Alliances and Conflicts: The Frontier of Forest Entomology
+650 Symposium: Optical Manipulation of Arthropod Pests and Beneficials
+651 Symposium: Arthropod Population Genomics
+652 Symposium: Global Research and Development of Insect Repellents
+653 Symposium: Eco-Immunology of Invertebrates
+654 Symposium: Insect Symbiosis and Immunity
+655 Symposium: Vector Immunology
+656 Symposium: Genetically Modified Insecticidal Crops and Sustainable Pest Management: An Ecological Perspective of Their Compatibility in Sustainable Agriculture
+657 Symposium: Globalizing Sustainable Pest Management in Agriculture
+658 Symposium: Greenhouse Insect Management Around the World: Common Problems and Solutions from Scientific Collaborations
+659 Symposium: IPM: The Lucrative Bridge Connecting the Ever-Emerging Knowledge Islands of Genetics and Ecology
+660 Symposium: An Invasive Planthopper Goes Global: Shedding Light on the Spotted Lanternfly (Lycorma delicatula)
+661 Symposium: Pink Hibiscus Mealybug (Maconellicoccus hirsutus) Invasions: What We Have Learned...What We Need to Re-Learn
+662 Symposium: Potential Invasive Pest Weevil Species of the World
+663 Symposium: Anti-Tick Vaccine Development: Possibilities in the Post-Genomics Era
+664 Symposium: Diptera Systematics: Deciphering Evolutionary Relationships with Diverse and Novel Data
+665 Symposium: Evolution, Classification, and Biology of Cucujoid Beetles (Coleoptera: Cucujoidea)
+666 Symposium: Molecular Endocrinology
+667 Symposium: Molecular Pharmacology and Physiology of Membrane Transport and Signaling Processes
+668 Symposium: Neuro-Endocrine Regulation of Reproduction in Insects
+669 Symposium: New Insights into Biology, Resistance Mechanisms, and the Management of the Modern Bed Bug
+85 Symposium: Microbial Associates and Microbial Control of Ambrosia Beetles
+86 Symposium: Genomics and Genome Engineering in the Silkworm
+87 Symposium: Wild Sericulture for Alternative Income and Economic Incentive for Biodiversity Conservation
+88 Symposium: Biology, Ecology, and Management of the Asian Citrus Psyllid, Diaphorina citri, Vector of Huanglongbing
+89 Symposium: Arthropods of Madagascar: Historical Biogeography, Diversity, and Patterns of Distribution
+90 Symposium: Ecological and Developmental Insights from Comparative Hemipteroid Genomics
+91 Symposium: Global Entomological Collaborations
+93 Symposium: Rapid Evolution of Insect Pests within Agroecosystems
+94 Symposium: From the Laboratory Bench to Commercial Products: Semiochemical-Based Technology Development and Regulation Worldwide
+95 Symposium: Host Adaptations in Insect Symbioses: Elements That Facilitate Stability and Persistence
+96 Symposium: Insect-Plant Interactions in a Changing Climate: Effects on Populations Dynamics and Biological Control
+97 Symposium: Host Plant Resistance Towards Insect Pests
+98 Symposium: Sustainable Agriculture through Ecological Pest Management
+99 Symposium: Zoophytophagous Arthropods in Biological Control (IOBC)
