@@ -63,7 +63,7 @@ category = ""
 for i, p in enumerate(ps):
 
     
-    text = p.text.strip()
+    text = p.text.strip().replace('\n', ' ')
 
     # get most recent category
     if text in content:
@@ -94,35 +94,12 @@ for i, p in enumerate(ps):
                     email = email
 
         email = StringHelpers.strip_nonalnum(email)
-        
 
-        # get title
+        # if email == 'haley.butler@okstate.edu':
+        #     pu.db
+
         bolds = [run.text for run in p.runs if run.bold]
-        for b in bolds:
-            try:
-                b = b.strip()
-                int(b)
-                num_index = text_list.index(b)
-            except:
-                continue
-        
-        title = " ".join(text_list[num_index:email_index])
-
-        try:
-            split = title.split(" ")
-            first = split[0]
-            int(first)
-            split.pop(0)
-            title = " ".join(split)
-        except:
-            continue
-
-        title = title.split('\n')[0]
-
-        
-
-
-        
+      
         for b in bolds:
             b = b.strip()
             try:
@@ -142,11 +119,53 @@ for i, p in enumerate(ps):
 
         fname = "".join(name.split(" ")[0])
 
-        if name in title:
-            title = title.replace(name, "")
+        # get title
+        for b in bolds:
+            try:
+                b = b.strip()
+                int(b)
+                num_index = text_list.index(b)
+            except:
+                continue
+
+        try:
+            fname_index = text_list.index(fname)
+        except:
+            for t, word in enumerate(text_list):
+                if fname in word:
+                    try:
+                        fname_index = t
+                        text_list[t] = text_list[t].split('\n')
+                        break
+                    except:
+                        pu.db
+                    
+        
+        title = " ".join(text_list[num_index:fname_index])
+        
+
+        try:
+            split = title.split(" ")
+            first = split[0]
+            int(first)
+            split.pop(0)
+            title = " ".join(split)
+        except:
+            continue
+
+        title = title.split('\n')[0]
+
+        # if name in title:
+        #     title = title.replace(name, "")
 
         title = title.strip()
 
+        punc = ['?', '.']
+        if list(title)[-1] not in punc:
+            last_punc_index = title.rfind('.')
+            if last_punc_index == -1:
+                last_punc_index = title.rfind('?')
+            title = title[:last_punc_index]
 
         out = [category, email, title, name, fname, text]
         out = [filter(lambda x: x in printable, word) for word in out]
